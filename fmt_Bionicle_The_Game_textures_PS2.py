@@ -1,6 +1,4 @@
 from inc_noesis import *
-import noesis
-import rapi
 import struct
 import io
 
